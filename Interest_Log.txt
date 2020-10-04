@@ -1,0 +1,3 @@
+
+The Simple Interest for the Sum 10000 for 16 years with rate of interest 12.0 is: 19200.0
+The Simple Interest for the Sum 123 for 2 years with rate of interest 1.0 is: 2.46
